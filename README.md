@@ -1,5 +1,4 @@
 # hackerrank-solutions
-# HackerRank Solutions
 
 Welcome to my HackerRank Solutions repository! 🚀
 
